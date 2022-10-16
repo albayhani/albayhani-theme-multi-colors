@@ -41,7 +41,7 @@ a {
     }
 
     &:focus {
-        color: #fff;
+        color: #B29264;
         @include box-shadow(none);
     }
 }
@@ -49,26 +49,26 @@ a {
 a.btn-cta-primary, .btn-cta-primary { 
     background: $btn-color;
     border: 1px solid $btn-color;
-    color: #fff;
+    color: #B29264;
     font-weight:600;
     text-transform: uppercase;
     &:hover {
         background: darken($btn-color, 5%);
         border: 1px solid darken($btn-color, 5%);
-        color: #fff;
+        color: #B29264;
     }
 }
 
 a.btn-cta-secondary,  .btn-cta-secondary { 
     background: $btn-color-2;
     border: 1px solid $btn-color-2;
-    color: #fff;
+    color: #B29264;
     font-weight:600;
     text-transform: uppercase;
     &:hover, &:not(:disabled):not(.disabled):active:focus {
         background: darken($btn-color-2, 5%);
         border: 1px solid darken($btn-color-2, 5%);
-        color: #fff;
+        color: #B29264;
         @include box-shadow(none);
     }
 }
@@ -80,7 +80,7 @@ a.btn-cta-secondary,  .btn-cta-secondary {
 .badge-theme {
     background: $color-2;
     font-size: 12px;
-    color: #fff;
+    color: #B29264;
     @include border-radius(2px);
 }
 
@@ -128,7 +128,7 @@ a.dotted-link {
                 height: 36px;
                 display: inline-block;
                 @include border-radius(50%);
-                color: #fff;
+                color: #B29264;
                 text-align: center;
                 
                 &:hover {
@@ -149,7 +149,7 @@ a.dotted-link {
     margin-bottom: 30px;
     
     .section-inner {
-        background: #fff;
+        background: #B29264;
         padding: 30px;
     }
     .heading {
@@ -227,7 +227,7 @@ a.dotted-link {
         display: inline-block;
         .text {
             background: $color-2;
-            color: #fff;
+            color: #B29264;
         }
         .ribbon {
             position: absolute;
@@ -248,7 +248,7 @@ a.dotted-link {
                 font-weight: bold;
                 text-align: center;
                 text-transform: uppercase;
-                color: #fff;           
+                color: #B29264;           
                 background-color: $btn-color-2;
                 @include transform (rotate(45deg) translate3d(0,0,0));
                 &:before, &:after {
@@ -566,7 +566,7 @@ a.dotted-link {
 
 .footer {
     background: darken($color, 30%);
-    color: #fff;  
+    color: #B29264;  
     padding: 10px 0;  
     
     
@@ -577,7 +577,7 @@ a.dotted-link {
     }  
     
     a {
-        color: #fff;
+        color: #B29264;
     }
     .fa-heart {
         color: $heart;

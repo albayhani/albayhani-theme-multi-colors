@@ -11,17 +11,17 @@
 }
 
 .text-bg-primary {
-  color: #fff !important;
+  color: #B29264 !important;
   background-color: RGBA(13, 110, 253, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-secondary {
-  color: #fff !important;
+  color: #B29264 !important;
   background-color: RGBA(108, 117, 125, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-success {
-  color: #fff !important;
+  color: #B29264 !important;
   background-color: RGBA(25, 135, 84, var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .text-bg-danger {
-  color: #fff !important;
+  color: #B29264 !important;
   background-color: RGBA(220, 53, 69, var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -46,7 +46,7 @@
 }
 
 .text-bg-dark {
-  color: #fff !important;
+  color: #B29264 !important;
   background-color: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important;
 }
 
